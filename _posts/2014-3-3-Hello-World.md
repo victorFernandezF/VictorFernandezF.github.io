@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¡¡Hola Mundo!!
+title: Blog Victor
 ---
 
 Este es el primer post.
